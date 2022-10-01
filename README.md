@@ -2,4 +2,4 @@
 ## * Bubble Sort
 ## * Insertion Sort
 ## * Selection Sort
-## Merge Sort
+## * Merge Sort
